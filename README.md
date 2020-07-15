@@ -16,7 +16,7 @@ In this system users rate items and from that a model of user preferences agains
 
 # Collaborative filtering : 
 
-In collaborative filtering, user ratings of other people are used rather than attribute data to predict and recommend .Collaborative filtering builds on the idea of a user model that is a set of ratings and an item model that is a set of ratings. Combining the two models, we get a sparse matrix of ratings, some of its cells are filled and most are not. So, here there are two main tasks, one is to fill the empty cells or predict a rating and second is to choose a filled cell or recommend an item.
+In collaborative filtering, user ratings of other people are used rather than attribute data to predict and recommend .Collaborative filtering builds on the idea of a user model that is a set of ratings and an item model that is a set of ratings. Combining the two models, we get a sparse matrix of ratings, some of its cells are filled and most are not. So, here there are two main tasks, one is to fill the empty cells or predict a rating and second is to choose a filled cell or recommend an item to the user.
 
 This project explains how to built the recommendation engine from the ground up. It will include:
 
