@@ -1,6 +1,6 @@
 # Article-Recommender-System
 
-The main motive of the project is to recommend article to the user with the help of recommender system so that correct article is recommended to the user.	
+The main motive of the project is to recommend article to the user with the help of recommender system so that correct article is recommended.	
 
 # Introduction
 
