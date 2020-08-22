@@ -9,7 +9,7 @@ Recommender systems have taken a huge leap towards goal, significantly improving
 The first approach uses keywords in order to find similar articles, given a query or an entire document. Collaborative filtering is implemented using a P2P network in which data is distributed evenly across all peers. The last technique uses data from a semantic repository containing information about articles (e.g. title, author, domain), which can be interrogated using natural language-like queries. 
 
 
-# Content based filtering : 
+# Content based filtering -: 
 
 In this system users rate items and from that a model of user preferences against the item attributes is built . An example could be in the domain of movies. Suppose someone likes science fiction, fantasy and action movies, and doesn't like romantic movies. Overtime the algorithm can accumulate this and Figure out that the user has positive scores on genres like science fiction, fantasy and action, and lower scores for romance. The algorithm might also find out that there were some actors that user likes or dislikes. For example, the user can be a fan of movies with the actor Bruce Willis, and not a fan of Ben Stiller. Content based filtering uses this information to map user ratings against the attributes of the products- in this example movies. Our approach fits in this type of algorithm as we are tryingto build a model on user feedback of news articles. 
 
